@@ -46,8 +46,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     behance={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.behance.net/neptunemark"
   },
     x={
     visibil: false,
@@ -55,10 +55,10 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"mz.macbook1@gmail.com"
+    link:"neptunemarkindia@gmail.com"
   },
     google={
-    visibil: false,
+    visibil: true,
     link:"https://neptunemark.com/"
   },
     telegram={
