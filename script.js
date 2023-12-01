@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/zee.png",
+    profile_pic: "./image/basith.png",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Muhammad Zeeshan",
-    designation: "Managing Director",
-    des_link_text: "@Al Mazaj Computer Trading LLC",
+    Name: "Abdul Basith",
+    designation: "Director",
+    des_link_text: "@Neptunemark",
     des_link: "",
-    contact: "./contact/madhari.vcf",
+    contact: "./contact/Abdul Basith(2).vcf",
 };
 
 const contact ={
-    contact_no: "+971552773305",
-    whatsapp: "+971552773305",
+    contact_no: "+976030771273",
+    whatsapp: "+976030771273",
     location: "",
-    email: "mz.macbook1@gmail.com",
+    email: "neptunemarkindia@gmail.com",
 };
 
 const profilelogo=[
@@ -26,19 +26,19 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/profile.php?id=100004459158858&mibextid=ZbWKwL"
   },
     instagram={
-    visibil: false,
-    link:" https://instagram.com/jafar_madhari?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
+    visibil: true,
+    link:" https://instagram.com/basithabd_ul?igshid=NzZlODBkYWE4Ng=="
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: false,
+    visibil: true,
     link:"https://neptunemark.com/"
   },
     linkedin={
