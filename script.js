@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/basith.png",
+    profile_pic: "./image/NAJMA.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Abdul Basith",
-    designation: "Director",
-    des_link_text: "@Neptunemark",
-    des_link: "",
-    contact: "./contact/Abdul Basith(2).vcf",
+    Name: "Al Najma African Saloon",
+    designation: "",
+    des_link_text: "",
+    des_link: "https://www.google.com/maps/place/25%C2%B018'15.4%22N+55%C2%B022'55.1%22E/@25.3042831,55.3793907,17z/data=!3m1!4b1!4m4!3m3!8m2!3d25.3042831!4d55.3819656?hl=en&entry=ttu",
+    contact: "./contact/najma.vcf",
 };
 
 const contact ={
-    contact_no: "+974030771273",
-    whatsapp: "+974030771273",
+    contact_no: "+971507882528", 
+    whatsapp: "+971507882528",
     location: "",
-    email: "neptunemarkindia@gmail.com",
+    email: "",
 };
 
 const profilelogo=[
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/profile.php?id=100004459158858&mibextid=ZbWKwL"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:" https://instagram.com/basithabd_ul?igshid=NzZlODBkYWE4Ng=="
   },
     skype={
@@ -38,7 +38,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     linkedin={
@@ -46,7 +46,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     behance={
-    visibil: true,
+    visibil: false,
     link:"https://www.behance.net/neptunemark"
   },
     x={
@@ -54,11 +54,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"neptunemarkindia@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     telegram={
